@@ -1,4 +1,3 @@
-streamlit
-google-genai
-astra-py
-pydantic
+streamlit>=1.35.0
+google-genai>=0.1.0
+PyPDF2>=3.0.0
