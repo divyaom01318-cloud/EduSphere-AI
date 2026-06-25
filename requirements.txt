@@ -1,5 +1,4 @@
 streamlit
 google-genai
+astra-py
 pydantic
-datastax-astra-db
-astra-assistant-sdk
